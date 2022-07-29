@@ -1,0 +1,12 @@
+footer{
+    padding: 15px 23px;
+    color: rgb(57, 255, 7);
+    text-align: center;
+}
+footer span a{
+    color: rgb(255, 254, 174);
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
