@@ -1,0 +1,20 @@
+{
+    "background_color": "#ffffff",
+    "description": "Chat with anyone on whatsapp without saving thier number.",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "icon/std9192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },{
+        "src": "icon/std9512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "name": "Std 9",
+    "short_name": "Std 9",
+    "start_url": ".",
+    "theme_color": "#ffffff"
+  }
